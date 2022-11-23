@@ -1,8 +1,0 @@
----
- - hosts: webserver
-   task: 
-    - name: crate a file in all the host nodes
-      file:
-        path: /home/ansible/omsai.txt
-        state: touch
-...        
