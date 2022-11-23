@@ -1,0 +1,16 @@
+id: 101
+name: janta market
+location: amirpet
+vegitable:
+ -potato
+ -beans
+ -tomato
+fruits:
+ -bannas
+ -grapes
+ -apple
+owner:
+ name: bittu
+ phon: 7989
+ email: bittu@gmail.com
+

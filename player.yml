@@ -1,0 +1,15 @@
+ id: 112
+ name: sachin
+ age: 45
+ dob: 1970
+ tsetmatches: 200
+ t20matches: 50
+ ondaymatches: 500
+adress:
+ city: mumbai
+ state: mh
+ country: india
+hobbies:
+ - cricket
+ - music
+ - movie

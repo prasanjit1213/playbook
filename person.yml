@@ -1,0 +1,12 @@
+id: 101
+name: bittu
+age: 30
+adress:
+ city: hyd
+ state: jh
+ country: india
+hobbies:
+ - music
+ - chatting
+ - sleeping
+ 
