@@ -1,0 +1,5 @@
+# write a playbook to copy content into a file
+ - hosts: webservers
+   tasks: 
+    - name: copy content to a file
+      copy: content="om sai ram om sai nathaye namahh.. \n" dest=/home/ansible/omsai.txt
